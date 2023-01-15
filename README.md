@@ -13,19 +13,19 @@
 ---
 
 <p align="center">[The Result]</p>
-<img src="design/final-result.jpg">
+<img src="under-1.png">
 
 ---
 
 <p align="center">[The Result - Zoom]</p>
-<p align="center"><img src="design/final-result2.jpg"></p>
+<p align="center"><img src="under-1.png"></p>
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a>   </a>  </p><br>
 
-<h3 align="center">Welcome! ðŸ‘‹</h3>
+<h3 align="center">Welcome!</h3>
 
 <p align="center">Thanks for checking out this front-end coding challenge.</p>
 
