@@ -3,3 +3,18 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+.page-top-container {
+	background-image: url("images/bg-header-desktop.png");
+	height: 20rem;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 8rem
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	overflow: auto;	
+}
