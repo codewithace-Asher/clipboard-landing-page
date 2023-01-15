@@ -4,6 +4,9 @@
 	box-sizing: border-box;
 }
 
+.attribution { font-size: 11px; text-align: center; }
+ .attribution a { color: hsl(228, 45%, 44%); }
+
 .page-top-container {
 	background-image: url("images/bg-header-desktop.png");
 	height: 20rem;
@@ -16,5 +19,4 @@
 .logo {
 	display: flex;
 	justify-content: center;
-	overflow: auto;	
 }
