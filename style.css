@@ -194,6 +194,7 @@ button {
 	height: 150px; 
 	background-color:#F5F6F8;
 	padding: 50px;
+	flex-wrap: wrap;
 }
 
 .f-img img {
@@ -201,21 +202,33 @@ button {
 }
 
 .f-img {
-	padding: 0px;
+	width: 20%;
+	display: flex;
+	justify-content: center
+}
+
+.list {
+	width: 45%;
+	display: flex;
+	justify-content: flex-start;
+}
+
+.socials {
+	width: 35%;
+	display: flex;
+	justify-content: center;
 }
 
 .list ul {
-	align-content: center;
-	display: flex;
-	justify-content: space-between;
-	gap: 150px;
 	list-style-type: none;
-	padding: 20px;
+	display: flex;
+	gap:100px;
+	padding: 10px;
 }
 
 .socials ul {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-end;
 	gap: 20px;
 	list-style-type: none;
 	padding: 20px;
